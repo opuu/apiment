@@ -1,0 +1,24 @@
+{
+    "name": "opuu/apiment",
+    "description": "A small yet powerful php framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Opuu\\Apiment\\App\\": "App/",
+            "Opuu\\Apiment\\Core\\": "Core/"
+        }
+    },
+    "config": {
+        "vendor-dir": "./Libraries",
+        "cache-dir": "./Core/Cache"
+    },
+    "authors": [
+        {
+            "name": "Opu",
+            "email": "obayed.opu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

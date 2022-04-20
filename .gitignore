@@ -1,0 +1,16 @@
+Libraries/*
+/.idea
+/.vscode
+/.git
+/node_modules
+/vendor
+
+.DS_Store
+.vscodeignore
+.env
+.env.backup
+.phpunit.result.cache
+.gitattributes
+
+npm-debug.log
+yarn-error.log
